@@ -1,0 +1,24 @@
+{
+  "run_id": "7f0e2eeb3c4a",
+  "factory_commit": "f4d0a71fc290836b80bc3019ba361647aad88106",
+  "blank_baseline_commit": "ea20a9aa7f3fbc177be758408987e8a8de0aac40",
+  "starter_application_files": 0,
+  "release_files_copied_unchanged": {
+    ".gitignore": "e9551ff0b7f7b755f6a7cbb1eae2809d2c0a40aacdc5d8b0f5c7d4465d5360e0",
+    "README.md": "d62b3bbde84ec00c1ac67bd6d817d8e1ba7e33069c79a79f9338cff0efcc28c7",
+    "pyproject.toml": "b6a41eb9a25b084b0ce79d4d035931a002852e11df42abee9e7d70581f926cad",
+    "taskboard/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "taskboard/__main__.py": "3129adff95e0f38b87ab34cddfc27082c7892bcaec267ff5d40f160fdf55b44a",
+    "taskboard/cli.py": "41eb3ae69501ab21a84993414da4b90c832d0b3441c41bd887ce8c1451ab1db8",
+    "taskboard/domain.py": "0fcbe7032b2627c82baba1468113c376e05f68bd735c268e69b4a87e606ffec2",
+    "taskboard/storage.py": "e26ee783f6af5440c2c4959c75535dad6805391477aa8ea27421d96f9c36069b",
+    "tests/test_taskboard.py": "85fc40677b4f304f03b6161d79c1faf3d7ba6ffd4b173d2c3ae62fc9b1fa4ea8"
+  },
+  "project_checks_passed": 23,
+  "generated_tests_passed": 6,
+  "manual_candidate_edits": 0,
+  "successful_run_operator_retries": 0,
+  "successful_run_engine_repairs": 0,
+  "prior_planning_run_failed": "a7760439fc9f",
+  "report_url": "https://github.com/adico1/ai_pipeline/blob/main/reports/taskboard-blank-20261028.json"
+}
